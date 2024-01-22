@@ -6,7 +6,7 @@
 
 🌗 linkedin.com/in/ivana-holleschova-1a4981239
 
-🌘 dog mom & loves hiking
+🌘 I love hiking, my dog doesn't share this feeling.
 
 <!---
 iva-ho/iva-ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
