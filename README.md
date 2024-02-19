@@ -9,6 +9,5 @@
 🌘 passionate hiker
 
 <!---
-iva-ho/iva-ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This is the place where I store my data projects. 
 --->
