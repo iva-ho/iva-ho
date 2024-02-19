@@ -1,12 +1,12 @@
-🌒 I’m @iva-ho
+🌒 Hi! I’m @iva-ho
 
-🌓 Data Analytics freak
+🌓 Data Analytics Newbie
 
-🌕 SQL lover
+🌕 SQL & R explorer
 
 🌗 linkedin.com/in/ivana-holleschova-1a4981239
 
-🌘 I love hiking, my dog doesn't share this feeling.
+🌘 passionate hiker
 
 <!---
 iva-ho/iva-ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
