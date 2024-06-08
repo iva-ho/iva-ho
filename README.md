@@ -1,12 +1,12 @@
-🌒 Hi! I’m @iva-ho
+🌒 Hi! I’m iva-ho
 
 🌓 Data Analytics Newbie
 
-🌕 SQL & R explorer
+🌕 SQL, Python & R explorer
 
-🌗 linkedin.com/in/ivana-holleschova-1a4981239
+🌗 hiker, dog mom
 
-🌘 passionate hiker
+🌘 linkedin.com/in/ivana-holleschova-1a4981239
 
 <!---
 This is the place where I store my data projects. 
