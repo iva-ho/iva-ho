@@ -1,3 +1,5 @@
+🌑 🌒 🌓 🌝 🌗 🌘 🌑
+
 🌒 Hi! I’m iva-ho
 
 🌓 Data Analytics Newbie
@@ -6,7 +8,9 @@
 
 🌗 hiker, dog mom
 
-🌘 linkedin.com/in/ivana-holleschova-1a4981239
+🌘  https://www.iva-ho.eu/
+
+🌑 https://www.linkedin.com/in/iva-ho-/
 
 <!---
 This is the place where I store my data projects. 
