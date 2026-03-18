@@ -4,11 +4,11 @@
 
 🌓 Data Analytics Newbie
 
-🌕 SQL, Python & R explorer
+🌕 SQL & Python explorer
 
-🌗 hiker, dog mom
+🌗 Munich, DE
 
-🌘  https://www.iva-ho.eu/
+🌘 https://www.iva-ho.eu/
 
 🌑 https://www.linkedin.com/in/iva-ho-/
 
